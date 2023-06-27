@@ -3,3 +3,4 @@
 # cajero
 # cajero
 # cajero
+# cajero-automatico
