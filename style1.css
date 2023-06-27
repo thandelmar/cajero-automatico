@@ -1,0 +1,60 @@
+html, body{
+    height: 100%;
+    background-color: goldenrod;
+  }
+  
+.container-fluid{
+    height: 49%;
+    background-color: wheat;
+    margin: 1% 1%;
+    display: inline-flex;
+    justify-content: center
+  }
+
+img {
+    display:inline;
+    margin-left: none;
+    height: 180px;
+    width: 250px;
+    border-style: rgb(91, 34, 34);
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+
+h1 {
+    display: inline-flex;
+    text-align: center;
+}
+
+h5 {
+    display: block;
+    margin-top: 200px;
+    margin-right: none;
+}
+
+p {
+    margin-top: 220px;
+    font-size: 70px;
+    margin-right: 35px;
+}
+
+.container button {
+    display: block;
+
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+.container {
+    display: block;
+    text-align: center;
+}
+
+
+
