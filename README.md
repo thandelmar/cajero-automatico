@@ -6,3 +6,4 @@
 # cajero-automatico
 # cajero-automatico
 # cajero-automatico
+# cajero
